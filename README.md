@@ -1,4 +1,4 @@
-<p>Griding 👨🏻‍💻 ... Contact me <a href="mailto:miharisoap@gmail.com">here</a></p>
+<p>Grinding 👨🏻‍💻 ... Contact me <a href="mailto:miharisoap@gmail.com">here</a></p>
 
 <hr>
 <table align="center">
